@@ -1,1 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
 
+# Virtual environments
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+
+# Generated data
+data/preprocessed/
+data/curated/
+data/semantic/
+data/retention/
+
+# Output files
+*.parquet
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
